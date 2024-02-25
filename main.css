@@ -1,5 +1,21 @@
 body{
-  font-family: Verdana, sans-serif;
-  width: 980px;
-  margin-left: auto; margin-left: auto;
+  font-family: Verdana, sans-serif; 
+  width: 980px; 
+  margin-right: auto; margin-left: auto;
 }
+
+#banner{
+  width: 430px; height: 243px;
+  background-image: url("drgBanner.webp");
+  margin-right: 50px;
+}
+
+#gameInfo{
+  flex: 1;
+}
+
+.wrapper{
+  display: flex;
+}
+
+
