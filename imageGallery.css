@@ -1,0 +1,17 @@
+img{
+  margin-top: 20px; margin-bottom: 20px;
+}
+
+#backLinkHolder{
+  position: sticky;
+  bottom: 0px;
+  margin-left: auto; margin-right: auto;
+  background-color: rgb(26, 26, 26);
+  height: 50px; width: 200px;
+  text-align: center;
+  line-height: 50px;
+}
+
+#imageHolder{
+  text-align: center;
+}

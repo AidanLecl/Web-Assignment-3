@@ -24,6 +24,11 @@ body{
   width: 310px;
 }
 
+#imageGalleries{
+  margin-top: 40px; margin-left: auto; margin-right: auto;
+  width: 700px;
+}
+
 .wrapper{
   display: flex;
 }
