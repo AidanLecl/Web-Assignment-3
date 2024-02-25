@@ -2,12 +2,16 @@ body{
   font-family: Verdana, sans-serif; 
   width: 980px; 
   margin-right: auto; margin-left: auto;
+  background-color: black;
 }
 
 #banner{
-  width: 430px; height: 243px;
-  background-image: url("drgBanner.webp");
+  /*background-image: url("drgBanner.webp");*/
   margin-right: 50px;
+}
+
+#logo, #banner{
+  width: 460px; height: 215px;
 }
 
 #gameInfo{
