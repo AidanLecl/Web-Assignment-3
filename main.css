@@ -2,8 +2,12 @@ body{
   font-family: Verdana, sans-serif; 
   width: 980px; 
   margin-right: auto; margin-left: auto;
-  background-color: black;
+  background-color: rgb(8, 20, 9);
   color: white;
+}
+
+a{
+  color: rgb(255, 241, 111);
 }
 
 #banner{
@@ -39,7 +43,8 @@ body{
 }
 
 .productLink:hover{
-  color:aqua;
+  font-weight: bold;
+  color:rgb(255, 241, 111);
 }
 
 
