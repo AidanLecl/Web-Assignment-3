@@ -3,6 +3,7 @@ body{
   width: 980px; 
   margin-right: auto; margin-left: auto;
   background-color: black;
+  color: white;
 }
 
 #banner{
@@ -13,6 +14,10 @@ body{
 #gameInfo{
   flex: 1;
   color: white;
+}
+
+#priceTable{
+  margin-top: 40px; margin-left: auto; margin-right: auto;
 }
 
 .wrapper{
